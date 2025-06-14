@@ -1,2 +1,2 @@
-# Sk-ad_W-gla
+# Skład_Węgla
 Giga storna na projekt
