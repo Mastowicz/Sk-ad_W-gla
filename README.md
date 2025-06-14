@@ -1,2 +1,2 @@
 # Skład_Węgla
-Giga storna na projekt
+Giga strona na projekt
