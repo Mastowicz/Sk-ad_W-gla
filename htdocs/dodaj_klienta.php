@@ -2,9 +2,9 @@
 
     include 'dbconfig.php';
 
-    $imie = $_POST['imie'];
-    $nazwisko = $_POST['nazwisko'];
-    $tel = $_POST['nr_tel'];
+    $imie = @$_POST['imie'];
+    $nazwisko = @$_POST['nazwisko'];
+    $tel = @$_POST['nr_tel'];
 
 
     $conn = new mysqli($host, $user, $psw, $db);

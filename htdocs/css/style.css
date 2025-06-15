@@ -16,3 +16,9 @@ body {
 #footer {
     background-color: black;
 }
+
+a {
+    color: black;
+    text-decoration-line: none;
+    
+}

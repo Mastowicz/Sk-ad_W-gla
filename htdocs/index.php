@@ -47,7 +47,7 @@
             </div>
         </div>
 
-        <div class="row.p p-1 ml-5 mr-5 mt-2 mb-2" id="main">
+        <div class="row.p p-1 mx-2 my-3 px-2" id="main">
             <div class="text_title">Witaj w sklepie z ......</div>
         </div>
 
