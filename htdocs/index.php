@@ -16,15 +16,13 @@
 
 <body>
 
-        <div class="jumbotron text-center">
-            Sklep kołki i gwoździe
-            <br>Projekt na zaliczenie BD
+        <div class="text-center fs-2 mb-2">
+            Skład Węgla "Czarny Diament"
         </div>
 
         <div class="row" id="menu">
             <div class="col-md-12">
 
-            <button type="button" link="home.php" class="link btn btn-primary">HOME</button>
             <button type="button" link="klienci.php" class="link btn btn-primary">KLIENCI</button>
             <button type="button" link="towary.php" class="link btn btn-primary">TOWARY</button>
             <button type="button" link="zamowienia.php" class="link btn btn-primary">ZAMÓWIENIA</button> 
@@ -48,7 +46,7 @@
         </div>
 
         <div class="row.p p-1 mx-2 my-3 px-2" id="main">
-            <div class="text_title">Witaj w sklepie z ......</div>
+            <div class="text_title">Witaj w Składie Węgla "Czarny Diament"</div>
         </div>
 
         <div class="row" id="footer">
